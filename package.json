@@ -1,0 +1,28 @@
+{
+  "name": "ssu-class-checker",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12.19.0"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "im-ian@naver.com",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "cheerio": "^1.0.0-rc.6",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1",
+    "playwright": "^1.10.0"
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22.28",
+    "@types/node-fetch": "^2.5.10",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  }
+}
