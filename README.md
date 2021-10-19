@@ -1,6 +1,6 @@
-# 메모
+# 숭실대학교 결석 수업 확인(Deprecated)
 
-## 숭실대학교 결석 수업 확인
+숭실대학교 러닝 시스템 변경으로 인해 더 이상 동작하지 않습니다.
 
 ![https://user-images.githubusercontent.com/38205068/116015749-69b84300-a675-11eb-96e7-c79f28db2ea1.png](https://user-images.githubusercontent.com/38205068/116015749-69b84300-a675-11eb-96e7-c79f28db2ea1.png)
 
